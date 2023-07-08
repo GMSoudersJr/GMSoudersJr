@@ -1,4 +1,4 @@
-### Hi there 👋
+### You've reached Gerald's GitHub Profile 👋
 
 <!--
 **GMSoudersJr/GMSoudersJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
