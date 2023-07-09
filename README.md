@@ -1,5 +1,13 @@
-### You've reached Gerald's GitHub Profile 👋
+# Gerald's GitHub Profile 👋
+<div class="heading">
+  I do code
+</div>
 
+<style>
+  .heading {
+    color: blue;
+  }
+</style>
 <!--
 **GMSoudersJr/GMSoudersJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
