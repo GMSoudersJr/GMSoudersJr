@@ -1,11 +1,4 @@
 # Gerald's GitHub Profile 👋
-```mermaid
-graph TD;
-  A-->B;
-  B-->C;
-  C-->D;
-  D-->A;
-```
 <!--
 **GMSoudersJr/GMSoudersJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
