@@ -1,8 +1,13 @@
 # Gerald's GitHub Profile 👋
 
-<section>
-      <img src="https://github-readme-stats.vercel.app/api?username=GMSoudersJr" alt="Summary of GitHub stats for GMSoudersJr" />  
-</section>
+<div align="center">
+      <section>
+            <img src="https://github-readme-stats.vercel.app/api?username=GMSoudersJr" alt="Summary of GitHub stats for GMSoudersJr" />
+            <br />
+            <br />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMSoudersJr&layout=compact&langs_count=8" alt="Gerald's most used languages"/>
+      </section>
+</div>
 <!--
 **GMSoudersJr/GMSoudersJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
