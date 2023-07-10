@@ -1,4 +1,9 @@
 # Gerald's GitHub Profile 👋
+
+<section>
+      <img src="https://github-readme-stats.vercel.app/api?username=GMSoudersJr&count_private=true&theme=dark&show_icons=true" alt="Summary of GitHub stats for drecali" />  
+      <img src="https://api.githubtrends.io/user/svg/GMSoudersJr/langs?time_range=one_year&theme=dark&include_private=true&compact=true"/>  
+</section>
 <!--
 **GMSoudersJr/GMSoudersJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
