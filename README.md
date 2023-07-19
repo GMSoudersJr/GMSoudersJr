@@ -14,6 +14,15 @@
       <p>
             - 👯 I’m looking to collaborate on JavaScript & Svelte projects            
       </p>
+      <h2>
+            Outside of coding...
+      </h2>
+      <p>
+            - 🏃 I've fallen back in love with running.
+            - 🏌️ I never thought I would like golf, but I love it.
+            Know any projects for these sports?
+      </p>
+      
 </div>
       <!--
       **GMSoudersJr/GMSoudersJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
