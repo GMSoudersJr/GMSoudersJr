@@ -19,7 +19,11 @@
       </h2>
       <p>
             - 🏃 I've fallen back in love with running.
+      </p>
+      <p>
             - 🏌️ I never thought I would like golf, but I love it.
+      </p>
+      <p>
             Know any projects for these sports?
       </p>
       
