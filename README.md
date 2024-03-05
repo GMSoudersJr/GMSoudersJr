@@ -1,3 +1,8 @@
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=GMSoudersJr&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GMSoudersJr&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GMSoudersJr&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 # 💻Tech Stack
 ### Languages:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,7 +43,3 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=GMSoudersJr&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GMSoudersJr&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GMSoudersJr&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
