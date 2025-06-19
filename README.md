@@ -9,7 +9,7 @@ During 16+ years of teaching English in South Korea, I discovered my passion for
 **Frontend:** React, Next.js, Svelte, TypeScript, HTML5, CSS3  
 **Backend:** Python, Django, Node.js  
 **Tools & Others:** Git, Linux, Bash, Raspberry Pi, PWAs  
-**Languages:** English (Native), Korean (Conversational)
+**Languages:** English (Native)
 
 ### 🌟 Featured Projects
 
