@@ -14,8 +14,8 @@ During 16+ years of teaching English in South Korea, I discovered my passion for
 ### 🌟 Featured Projects
 
 - 🎯 **[Random Name Picker](https://github.com/GMSoudersJr/random-name-picker)** - A Svelte web app for teachers to randomly select students ([Live Demo](https://random-name-picker-alpha.vercel.app))
-- 💪 **[Armstrong Pull-up Program](https://github.com/GMSoudersJr/armstrong-pull-up-program)** - TypeScript PWA for pull-up training with Next.js App Router and i18n foundation ([Live Demo](https://repyourself.app))
-- 🏃 **[Card Workout](https://github.com/GMSoudersJr/card-workout)** - Mobile-first TypeScript PWA for calisthenics challenges based on playing cards ([Live Demo](https://suityourself.app))
+- 💪 **[Rep Yourself](https://github.com/GMSoudersJr/armstrong-pull-up-program)** - TypeScript PWA for pull-up training with Next.js App Router and i18n foundation ([Live Demo](https://repyourself.app))
+- 🏃 **[Suit Yourself](https://github.com/GMSoudersJr/card-workout)** - Mobile-first TypeScript PWA for calisthenics challenges based on playing cards ([Live Demo](https://suityourself.app))
 - ⚙️ **[Dotfiles](https://github.com/GMSoudersJr/dotfiles)** - My development environment configuration files for consistent setup across machines
 - 📊 **[PO Generator](https://github.com/GMSoudersJr/portfolio-po-generator)** - Secure purchase order system with data encryption ([Live Demo](https://portfolio-po-generator.vercel.app) - username/password: guest)
 
